@@ -22,4 +22,4 @@ protected $middleware = [
             \App\Http\Middleware\Headers::class // This is our middleware to add/remove headers
     ];
 ```
-And now your all set the headrs will be added on each request.
+And now your all set the headers will be added on each request.
