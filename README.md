@@ -6,4 +6,5 @@ This is a middleware to include in your laravel project if you dont want to incl
 A Middleware is basically a code that is executed on every request that acts as a bridge between a request and a response. So we can create a middleware that appends or removes headers on each request.
 
 
-Copy the code from [header][Headers.php]
+Copy the code from [Headers](Headers.php)
+header
