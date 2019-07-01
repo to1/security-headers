@@ -1,4 +1,4 @@
-# SecurityHeaders
+# Security Headers
 Add security headers for laravel project
 
 This is a middleware to include in your laravel project if you dont want to include you'r headers in index or configure httpacces.
